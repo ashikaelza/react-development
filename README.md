@@ -316,7 +316,6 @@ class ThemedButton extends React.Component {
 export default ThemedButton;
  
 
-Here we made use of hooks useContext. After this, we can directly access the properties as shown above.This was all about Context.To know more,<a href="https://www.cronj.com/react/react-development-agency" rel="nofollow">react development agency</a>,<a href="https://www.cronj.com/react/react-development-agency" rel="nofollow">react.js agency</a>
-
+Here we made use of hooks useContext. After this, we can directly access the properties as shown above.This was all about Context.To know more,<a href="https://www.cronj.com/react/react-development-agency" rel="nofollow">react development agency</a>
 
  
